@@ -35,7 +35,8 @@ Alusq, Nuramon, BatimaTheBat,[N]
 BlackMage, LeoLink, TBA[N]
 GabrielKnight, MeatOfJustice,[N]
 LisandraBrave, epicer, Levin64,[N]
-Flasuban, Pushwall, Vyland[X]
+Flasuban, Pushwall, Vyland,[N]
+flyingb00ts[X]
 
 ##CreditsAssets2
 Graphical Assets Cont.[X]

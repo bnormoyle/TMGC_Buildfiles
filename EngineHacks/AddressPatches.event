@@ -1,3 +1,10 @@
+// Assassin mine recovery -> assassin mine disarming
+// by ditto
+PUSH
+ORG 0x37682
+BYTE 0x19
+POP
+
 //ending portrait transparency
 PUSH
 ORG $b6f14

@@ -512,3 +512,4 @@ POP
 #include "TMGC/CapsToggle/Caps.lyn.event"
 
 #include "Facepetting.event"
+#include "RegisterDataFix.event"

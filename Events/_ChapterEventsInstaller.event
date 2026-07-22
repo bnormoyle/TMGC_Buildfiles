@@ -49,6 +49,7 @@ EndEvent
 #define RoseShopMacro "CharacterEvent(0x0,RoseShopEvent,0x0,Rose)"
 ALIGN 4
 RoseShopEvent:
+EVBIT_MODIFY 4
 CHECK_ACTIVEID SecretLaronde
 BNE 0x40 0xc 0x0
 CHECK_ACTIVEID 0xd2
