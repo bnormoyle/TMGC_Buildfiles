@@ -715,13 +715,13 @@ MUSC S_NotFarEnough
 		CleanTextNoMap(HallCG,C28Ending1)
 	LABEL 0x5
 CheckForItem(Soulbow)
-BNE 0x5 0xc 0x0
+BNE 0x7 0xc 0x0
 CleanTextNoMap(HallCG,C28Ending2)
 SetBackground(BlankCG)
 GiveItem(Soulbow,Zeke)
 FADI 16
 SetUnitStatus(Zeke,BowExp,251)
-LABEL 0x5
+LABEL 0x7
 MUSC 0x0
 LocationText(HallCG,C28Ending3,LaterLabel)
 SetBackground(BlankCG)

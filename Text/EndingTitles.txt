@@ -169,7 +169,7 @@ Tobias, Jolly Veteran[X]
 ##IanEndingTitle
 Ian, Some Kid[X]
 
-##OlsenEndingTitle
+##OlsenEndingTitleDupe
 Olsen, Character Assassin[X]
 
 ##ElcorianEndingTitle
@@ -204,3 +204,6 @@ Clarque, Forlorn Father[X]
 
 ##ValeriaEndingTitle
 Valeria[X]
+
+##OlsenEndingTitle
+Olsen, Character Assassin[X]
