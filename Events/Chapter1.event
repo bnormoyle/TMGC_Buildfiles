@@ -82,7 +82,7 @@ UNIT Mevion Archer 0x0 Level(3,Enemy,1) [14,11] DropItem 0x0 0x0 0x0 [IronBow, V
 UNIT Mevion Soldier 0x0 Level(2,Enemy,1) [17,1] 0x0 0x0 0x0 0x0 [IronLance] DelayedAI
 UNIT Mevion FighterF 0x0 Level(3,Enemy,1) [2,15] 0x0 0x0 0x0 0x0 [IronAxe] AttackInRangeAI
 UNIT Mevion Merc 0x0 Level(3,Enemy,1) [0,13] DropItem 0x0 0x0 0x0 [Lancereaver,Vulnerary] NoAI
-UNIT Marque AxeCav 0x0 Level(8,Enemy,1) [16,2] DropItem 0x0 0x0 0x0 [IronAxe, RedGem] NeverMoveAI
+UNIT Marque AxeCav 0x0 Level(8,Enemy,1) [16,2] DropItem 0x0 0x0 0x0 [IronAxe, RedGem] AttackInRangeAI
 UNIT
 
 C1Normal:

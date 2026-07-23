@@ -24,7 +24,7 @@ TurnBasedEvents:
 TurnEventPlayer(0x0,C3Turn1,1)
 TurnEventPlayer(0x0,C3Turn2,2)
 TurnEventPlayer(0x0,C3Turn6,6)
-TurnEventPlayer(0x0,C3Turn13,14) // delayed for balance
+TurnEventPlayer(0x0,C3Turn13,13)
 TurnEventPlayer(0x15,C3DoorTrap2,1,255)
 TurnEventPlayer(0x14,C3DoorTrap,1,255)
 END_MAIN

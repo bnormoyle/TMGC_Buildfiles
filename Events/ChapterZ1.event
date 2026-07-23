@@ -205,7 +205,7 @@ STAL 30
 SOUN 0xB1
 TILECHANGE 0x0
 STAL 15
-SetUnitStatus(Zeke, Item3Uses, 1)
+SetUnitStatus(Zeke, Item3Uses, 2)
 GiveItem(Partisan,Zeke)
 MOVE 60 Zeke [28,1]
 ENUN

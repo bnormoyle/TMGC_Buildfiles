@@ -58,6 +58,7 @@ pGameOptionMenuDefinition:
 	WORD 0 0 0 0 0 0  
 	
 pGameOptionCommands:
+	EventMenuCommand(GrowthsSelector)
 	EventMenuCommand(ReverseSelector)
 	EventMenuCommand(RNSelector)
 	EventMenuCommand(FinishedSelector)
@@ -74,12 +75,12 @@ pBonusOptionMenuDefinition:
 	WORD 0 0 0 0 0 0  
 	
 pBonusOptionCommands:
-	EventMenuCommand(GrowthsSelector)
 	EventMenuCommand(FlowerSelector)
 	EventMenuCommand(CYLSelector)
 	EventMenuCommand(EXPModSelector)
 	EventMenuCommand(GrowthModSelector)
 	EventMenuCommand(PerfectLuckSelector)
+	EventMenuCommand(DeploymentCutSelector)
 	EventMenuCommand(NextPageSelector)
 	EventMenuCommand(BonusFinishedSelector)
 EventMenuCommandEnd
@@ -99,6 +100,7 @@ pBonusOption2Commands:
 	EventMenuCommand(AnimusModeSelector)
 	EventMenuCommand(PressTurnSelector)
 	EventMenuCommand(JukeboxSelector)
+	EventMenuCommand(AllRefreshingSelector)
 	EventMenuCommand(NextPageSelector)
 	EventMenuCommand(BonusFinishedSelector)
 EventMenuCommandEnd
