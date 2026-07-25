@@ -1020,7 +1020,7 @@ But it's how it must be.[A][X]
 ##C23TarquinKillsBlair
 [OpenMidRight][LoadBlair]
 [...]No[...] I can't[...][N]
-The world must[...][A][N][ClosseEyes][ClearFace][OpenMidLeft][LoadTarquin]
+The world must[...][A][N][CloseEyes][ClearFace][OpenMidLeft][LoadTarquin]
 I tried to warn you.[A][N][CloseEyes]
 Fear not. You will not[N]
 be alone for long.[A][X]

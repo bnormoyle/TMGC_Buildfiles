@@ -189,8 +189,7 @@ and deliver news of our triumph![A][N]
 [OpenRight]You sure? Well, then.[N]
 Off we go! We've lots to catch up on![A][N][ClearFace][OpenLeft][ClearFace][OpenFarLeft][ClearFace]
 [OpenFarRight][...]Stick in the mud.[N]
-Hmph.[A][N}
-I'll have you know,[N]
+Hmph.[A] I'll have you know,[N]
 that metaphor is an affront to sticks.[A][N]
 [...]And they're gone. Shame.[A][X]
 
